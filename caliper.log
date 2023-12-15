@@ -1,0 +1,4 @@
+2023.12.15-18:39:26.894[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2023.12.15-18:39:27.112[33m warn [39m [caliper] [bind] 	Working directory for binding not specified. Using "/usr/software/benchmarks"
+2023.12.15-18:39:27.118[32m info [39m [caliper] [bind] 	Binding working directory: /usr/software/benchmarks
+2023.12.15-18:39:27.119[32m info [39m [caliper] [bind] 	Calling npm with: install web3@0.20.7

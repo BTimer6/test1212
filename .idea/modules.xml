@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/caliper-benchmarks/src/fabric/api/api.iml" filepath="$PROJECT_DIR$/caliper-benchmarks/src/fabric/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/benchmarks.iml" filepath="$PROJECT_DIR$/.idea/benchmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caliper-benchmarks/src/fabric/samples/fabcar/java/src/main/main.iml" filepath="$PROJECT_DIR$/caliper-benchmarks/src/fabric/samples/fabcar/java/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caliper-benchmarks/src/fabric/samples/fabcar/java/src/test/test.iml" filepath="$PROJECT_DIR$/caliper-benchmarks/src/fabric/samples/fabcar/java/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
